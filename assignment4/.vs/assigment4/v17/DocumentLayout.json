@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fatiha Noor\\Desktop\\Assignment c#\\assignment 4\\assignment 4\\assignment4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FED44051-6DBB-467A-87B3-F4EF96AA3D06}|test\\Assignment4.Tests.csproj|c:\\users\\fatiha noor\\desktop\\assignment c#\\assignment 4\\assignment 4\\assignment4\\test\\webservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED44051-6DBB-467A-87B3-F4EF96AA3D06}|test\\Assignment4.Tests.csproj|solutionrelative:test\\webservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65D0DEB-B6D2-46C6-B681-F371E893864D}|assigment4\\WebServiceLayer.csproj|c:\\users\\fatiha noor\\desktop\\assignment c#\\assignment 4\\assignment 4\\assignment4\\assigment4\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65D0DEB-B6D2-46C6-B681-F371E893864D}|assigment4\\WebServiceLayer.csproj|solutionrelative:assigment4\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65D0DEB-B6D2-46C6-B681-F371E893864D}|assigment4\\WebServiceLayer.csproj|c:\\users\\fatiha noor\\desktop\\assignment c#\\assignment 4\\assignment 4\\assignment4\\assigment4\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65D0DEB-B6D2-46C6-B681-F371E893864D}|assigment4\\WebServiceLayer.csproj|solutionrelative:assigment4\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Fatiha Noor\\Desktop\\Assignment c#\\assignment 4\\assignment 4\\assignment4\\assigment4\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "assigment4\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Fatiha Noor\\Desktop\\Assignment c#\\assignment 4\\assignment 4\\assignment4\\assigment4\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "assigment4\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T05:38:04.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Fatiha Noor\\Desktop\\Assignment c#\\assignment 4\\assignment 4\\assignment4\\test\\WebServiceTests.cs",
+              "RelativeDocumentMoniker": "test\\WebServiceTests.cs",
+              "ToolTip": "C:\\Users\\Fatiha Noor\\Desktop\\Assignment c#\\assignment 4\\assignment 4\\assignment4\\test\\WebServiceTests.cs",
+              "RelativeToolTip": "test\\WebServiceTests.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAuwLgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T10:34:35.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Fatiha Noor\\Desktop\\Assignment c#\\assignment 4\\assignment 4\\assignment4\\assigment4\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "assigment4\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Fatiha Noor\\Desktop\\Assignment c#\\assignment 4\\assignment 4\\assignment4\\assigment4\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "assigment4\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAswEUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:00:44.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+C:\Users\Fatiha Noor\Desktop\Assignment c#\assignment 4\assignment 4\assignment4\DataServiceLibrary\bin\Debug\net8.0\DataServiceLayer.deps.json
+C:\Users\Fatiha Noor\Desktop\Assignment c#\assignment 4\assignment 4\assignment4\DataServiceLibrary\bin\Debug\net8.0\DataServiceLayer.dll
+C:\Users\Fatiha Noor\Desktop\Assignment c#\assignment 4\assignment 4\assignment4\DataServiceLibrary\bin\Debug\net8.0\DataServiceLayer.pdb
+C:\Users\Fatiha Noor\Desktop\Assignment c#\assignment 4\assignment 4\assignment4\DataServiceLibrary\obj\Debug\net8.0\DataServiceLayer.csproj.AssemblyReference.cache
+C:\Users\Fatiha Noor\Desktop\Assignment c#\assignment 4\assignment 4\assignment4\DataServiceLibrary\obj\Debug\net8.0\DataServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatiha Noor\Desktop\Assignment c#\assignment 4\assignment 4\assignment4\DataServiceLibrary\obj\Debug\net8.0\DataServiceLayer.AssemblyInfoInputs.cache
+C:\Users\Fatiha Noor\Desktop\Assignment c#\assignment 4\assignment 4\assignment4\DataServiceLibrary\obj\Debug\net8.0\DataServiceLayer.AssemblyInfo.cs
+C:\Users\Fatiha Noor\Desktop\Assignment c#\assignment 4\assignment 4\assignment4\DataServiceLibrary\obj\Debug\net8.0\DataServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\Fatiha Noor\Desktop\Assignment c#\assignment 4\assignment 4\assignment4\DataServiceLibrary\obj\Debug\net8.0\DataServiceLayer.sourcelink.json
+C:\Users\Fatiha Noor\Desktop\Assignment c#\assignment 4\assignment 4\assignment4\DataServiceLibrary\obj\Debug\net8.0\DataServiceLayer.dll
+C:\Users\Fatiha Noor\Desktop\Assignment c#\assignment 4\assignment 4\assignment4\DataServiceLibrary\obj\Debug\net8.0\refint\DataServiceLayer.dll
+C:\Users\Fatiha Noor\Desktop\Assignment c#\assignment 4\assignment 4\assignment4\DataServiceLibrary\obj\Debug\net8.0\DataServiceLayer.pdb
+C:\Users\Fatiha Noor\Desktop\Assignment c#\assignment 4\assignment 4\assignment4\DataServiceLibrary\obj\Debug\net8.0\ref\DataServiceLayer.dll
